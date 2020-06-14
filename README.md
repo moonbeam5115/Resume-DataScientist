@@ -1,2 +1,2 @@
 # Resume-DataScientist
-My resume for a job as a data scientist
+My resume for a job as a data scientist (Click above on Luis Riera Resume.pdf)
